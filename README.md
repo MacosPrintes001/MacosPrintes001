@@ -4,6 +4,12 @@
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MacosPrintes001)
 
 <div align="center">
+  <h1> 📘Aluno Na UFOPA💻</h1>
+  <img background="white" height="100em" src="https://th.bing.com/th/id/R.3b948d5588e302a04af92fa1f3277480?rik=m8VmezRlDH%2b1ew&pid=ImgRaw&r=0"/>
+  <br/>
+</div>
+
+<div align="center">
   <a href="https://github.com/MacosPrintes001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MacosPrintes001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacosPrintes001&layout=compact&langs_count=7&theme=gotham"/>
@@ -33,5 +39,3 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/WilkPrintes/count.svg" /></p>
 
  ![Snake animation](https://github.com/WilkPrintes/WilkPrintes/blob/output/github-contribution-grid-snake.svg)
-
-Apaixonado por tecnologia, jogos e pretendo trabalhar como Dev
