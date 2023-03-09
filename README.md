@@ -7,7 +7,6 @@
   <h1> 📘Aluno Na UFOPA💻</h1>
   <row>
     <img background="white" height="200em" src="https://github.com/MacosPrintes001/MacosPrintes001/blob/main/278524749_3109448079273517_6018796999008091743_n.png"/>
-
   </row>
   <br/>
 </div>
@@ -17,10 +16,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MacosPrintes001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacosPrintes001&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-
-
-<iframe src="https://api.dbadge.com.br/public/assertions/gwOqKkazTIenqeGnidaMEg?embedVersion=1&amp;embedWidth=330&amp;embedHeight=186&amp;identity__email=mvprintes2%40gmail.com" title="Badge: Workshop: Fundamentos Básicos de JavaScript e TypeScript" style="width: 330px; height: 186px; border: 0px;"></iframe>
-
 
 ## Tecnologias que tenho dominio
 <div>
